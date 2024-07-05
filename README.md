@@ -40,4 +40,4 @@ Adjust the following parameters in `agent.py` as needed:
 Contributions are welcome! Please feel free to submit a Pull Request.
 
 ## License
-[Insert your chosen license here]
+MIT license
